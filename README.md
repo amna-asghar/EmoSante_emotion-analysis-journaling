@@ -2,7 +2,7 @@
 
 **ÉmoSanté** is a cross-platform mobile application designed to help users track, understand, and visualize their emotional well-being. By utilizing Artificial Intelligence, the app analyzes audio and text entries to detect underlying sentiments, helping users maintain a daily log of their mental health journey.
 
-🔗 **Repository:** [https://github.com/muskancodebase/EmoSante_emotion-analysis-journaling](https://github.com/muskancodebase/EmoSante_emotion-analysis-journaling)
+🔗 **Repository:** [[https://github.com/muskancodebase/EmoSante_emotion-analysis-journaling](https://github.com/amna-asghar/EmoSante_emotion-analysis-journaling)]
 
 ---
 
